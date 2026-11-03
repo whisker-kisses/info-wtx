@@ -34,7 +34,7 @@ MAIN_IV = b'6oyZDr22E3ychjM%'
 # JWT TOKEN API
 # =============================================
 
-JWT_API_BASE = "https://jwt-wxun.vercel.app/token"   #AGS COMMUNITY UPDATE
+JWT_API_BASE = "https://jwt-server-gilt.vercel.app/token"  
 
 # =============================================
 # ACCOUNTS FOR JWT
