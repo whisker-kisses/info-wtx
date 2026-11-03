@@ -345,7 +345,7 @@ def get_full_info():
         return jsonify({"error": "Invalid UID"}), 400
 
     async def try_all_regions_parallel():
-        """BD, IND, BR — FULL MADE BY @Jahid_x_Empire IF CHANGE ANY CREDIT == YOU ARE A GAY  ।"""
+        """BD, IND, BR — FULL MADE BY WTX IF CHANGE ANY CREDIT == YOU ARE A GAY  ।"""
         tasks = []
         for region in REGION_PRIORITY:
             tasks.append(asyncio.create_task(GetAccountInformation(uid_int, region)))
@@ -468,7 +468,7 @@ def home():
         "endpoint": "/info?uid=UID",
         "example": "/info?uid=2084018498",
         "priority": "BD → IND → BR",
-        "credit": "@Itz_Jahid_X"
+        "credit": ""
     })
 
 @app.route('/status')
