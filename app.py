@@ -41,8 +41,8 @@ JWT_API_BASE = "https://jwt-server-gilt.vercel.app/token"
 # =============================================
 
 BD_CREDS = {
-    "uid": "4588882799", 
-    "password": "ZU_CODEX_9AOF7"
+    "uid": "8402781423", 
+    "password": "SAJS@3_IIIMLCL936_7J38G"
 }
 
 IND_CREDS = {
